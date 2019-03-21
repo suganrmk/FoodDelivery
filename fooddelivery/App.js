@@ -9,7 +9,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-         <Text style={styles.texts}> world!!- sugan</Text>         
+         <Text style={styles.texts}>Hello  world!!- sugan</Text>         
       </View>
       
     );
